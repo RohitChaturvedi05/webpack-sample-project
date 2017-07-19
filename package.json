@@ -11,6 +11,7 @@
   "author": "rohit",
   "license": "ISC",
   "dependencies": {
+    "html-webpack-plugin": "^2.29.0",
     "webpack": "^3.3.0"
   }
 }
