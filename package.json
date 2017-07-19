@@ -1,0 +1,16 @@
+{
+  "name": "webpackdemo",
+  "version": "1.0.0",
+  "description": "demo project for webpack",
+  "main": "app.js",
+  "scripts": {
+    "dev": "webpack -d",
+    "prod": "webpack -p"
+  },
+  "repository": {},
+  "author": "rohit",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^3.3.0"
+  }
+}
