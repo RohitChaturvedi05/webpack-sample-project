@@ -1,5 +1,5 @@
-const css = require('./app.css').toString();
-const scss = require('./app2.scss').toString();
+const css = require('./app2.scss')
+// const scss = require('./app2.scss').toString();
 
-console.log(css);
-console.log("rohit's webpack!!");
+
+console.log("rohit's webpack dev server!!");
